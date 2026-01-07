@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.montserrat-400 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cinzel-400 {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+select,
+input,
+textarea {
+    border: 1px solid #c2c2c2;
+    outline-color: rgb(128, 128, 128);
+    border-radius: 4px;
+}
+
+
+
+.active {
+    background-color: #c2dbf9;
+    border-color: rgb(176, 176, 176);
+}
