@@ -4,7 +4,6 @@ import Title from '../components/Title'
 import { assets } from '../assets/assets'
 import CartTotal from '../components/CartTotal'
 
-
 const Cart = () => {
 
 
