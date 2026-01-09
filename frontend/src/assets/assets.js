@@ -54,7 +54,6 @@ import p_img50 from "./p_img50.png";
 import p_img51 from "./p_img51.png";
 import p_img52 from "./p_img52.png";
 
-import logo from "./logo.png";
 import cart_icon from "./cart_icon.png";
 import bin_icon from "./bin_icon.png";
 import dropdown_icon from "./dropdown_icon.png";
@@ -73,16 +72,28 @@ import stripe_logo from "./stripe_logo.png";
 import cross_icon from "./cross_icon.png";
 import landing01 from "./landing01.jpg";
 import landing02 from "./landing02.avif";
+import landing03 from "./landing03.jfif";
+import landing06 from "./landing06.avif";
 
 import logo_c from "./logo_c.png";
 import logo_t from "./logo_t.png";
+import logo_t01 from "./logo_t01.png";
+import logo02 from "./logo02.jpg";
+import logo04 from "./logo04.jpg";
+import logo05 from "./logo05.png";
+
 
 export const assets = {
+  landing06,
+  logo05,
+  logo04,
+  logo02,
+  logo_t01,
+  landing03,
   landing01,
   landing02,
   logo_c,
   logo_t,
-  logo,
   cart_icon,
   dropdown_icon,
   exchange_icon,
